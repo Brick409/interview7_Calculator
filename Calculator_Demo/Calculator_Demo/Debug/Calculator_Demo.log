@@ -1,0 +1,10 @@
+﻿  Calculator_Demo.cpp
+d:\code_project\c++_test\github_project\interview7_calculator\calculator_demo\calculator_demo\calculator.cpp(146): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  d:\code_project\c++_test\github_project\interview7_calculator\calculator_demo\calculator_demo\calculator.cpp(66): note: 编译 类 模板 成员函数 "int Calculator<double>::Calculation(char [])" 时
+  d:\code_project\c++_test\github_project\interview7_calculator\calculator_demo\calculator_demo\calculator_demo.cpp(23): note: 参见对正在编译的函数 模板 实例化“int Calculator<double>::Calculation(char [])”的引用
+  d:\code_project\c++_test\github_project\interview7_calculator\calculator_demo\calculator_demo\calculator_demo.cpp(17): note: 参见对正在编译的 类 模板 实例化 "Calculator<double>" 的引用
+d:\code_project\c++_test\github_project\interview7_calculator\calculator_demo\calculator_demo\calculator.cpp(68): warning C4101: “c”: 未引用的局部变量
+d:\code_project\c++_test\github_project\interview7_calculator\calculator_demo\calculator_demo\calculator.cpp(221): warning C4305: “return”: 从“int”到“bool”截断
+  d:\code_project\c++_test\github_project\interview7_calculator\calculator_demo\calculator_demo\calculator.cpp(152): note: 编译 类 模板 成员函数 "bool Calculator<double>::Infix2Postfix(char [],char [])" 时
+  d:\code_project\c++_test\github_project\interview7_calculator\calculator_demo\calculator_demo\calculator_demo.cpp(22): note: 参见对正在编译的函数 模板 实例化“bool Calculator<double>::Infix2Postfix(char [],char [])”的引用
+  Calculator_Demo.vcxproj -> D:\Code_Project\C++_Test\GitHub_Project\interview7_Calculator\Calculator_Demo\Debug\Calculator_Demo.exe
